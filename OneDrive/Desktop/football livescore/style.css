@@ -1,0 +1,19 @@
+
+.container{
+   background-color: #fffeea;
+   border-radius: 4px;
+}
+
+.div-head{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 1rem;
+}
+.h1-head{
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.body{
+    background-color: #23aacf;
+}
